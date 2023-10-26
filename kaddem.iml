@@ -133,4 +133,7 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.4" level="project" />
     <orderEntry type="library" name="Maven: io.github.classgraph:classgraph:4.8.147" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="56036805-0a09-41ac-bf4d-0c0494693012" />
+  </component>
 </module>
